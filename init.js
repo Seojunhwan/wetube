@@ -1,3 +1,4 @@
+//app.js 에서 export 한 것 불러오기
 import app from "./app";
 
 const PORT = 4000;

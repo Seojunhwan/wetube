@@ -1,4 +1,3 @@
-import { from } from "core-js/fn/array";
 import express from "express";
 
 export const userRouter = express.Router();
